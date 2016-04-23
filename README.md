@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/jcinnamond/allium.svg?style=svg)](https://circleci.com/gh/jcinnamond/allium)
+[![Circle CI](https://circleci.com/gh/jcinnamond/allium.svg?style=shield)](https://circleci.com/gh/jcinnamond/allium)
 
 # Allium #
 
