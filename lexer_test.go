@@ -11,6 +11,7 @@ func TestScanSingleToken(t *testing.T) {
 	}{
 		{"onions", Token{T_IDENTIFIER, "onions"}},
 		{"(", Token{T_LPAREN, "("}},
+		{"🐙", Token{T_IDENTIFIER, "🐙"}},
 	}
 
 	for _, c := range cases {
